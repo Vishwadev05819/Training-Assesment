@@ -1,0 +1,12 @@
+Q.1) Ans :  Aarushi15  
+Q.10) Ans: Error 2
+Q.14) Ans: You cannot specify which thread will get notified
+Q.15) Ans: The event listener should cancel the lengthy task if it is not complete in a speciﬁc time
+Q.17) Ans: 123112233
+Q.16) Ans: The program does not compile because this cannot be referenced in a static method.
+Q.18) Ans: Running a Query and Retrieving a ResultSet Object
+Q.22) Ans: Only 1 and 3
+Q.24) Ans: @ApplicationScoped
+Q.25) Ans: configuration helps defines a minimum set of class libraries for a wide range of devices, and a profile defines the set of APIs available for a particular family of devices.
+
+
